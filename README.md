@@ -25,3 +25,10 @@ demonstrate poland's superiority is systematic; could be by sheer dumb luck).
 but, again, at the same time, we cannot accept the null hypothesis either.  so
 we can't say that ##poland's more extreme nerds is due to sheer dumb luck.
 maybe with a larger sample size we can prove pierogi's superiority.
+
+some polish ppl claim that they and the ukranians, both, eat pierogi, but just
+call it using different names.
+
+    10:59 <Stefania> Ukrainians eat pierogi too ... they just call it pyrohy or varenyky
+    10:59 <caveman> anything unique to poland?
+    11:01 <Stefania> Barszcz Ukraiński is different from Polish Barszcz with Uszka in it
