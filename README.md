@@ -1,8 +1,11 @@
 # intro
 
-`##poland` has more extreme nerds than `##ukraine`.  this is undisputed.  but
-the question is: is it a systematic difference?  e.g. is there anything special
-in pierogi that makes polish ppl more superior to ukranians?
+1st wat is an extreme nerd?  is a nickname that exists in ##math, ##physics,
+##algorithms.
+
+turns out that `##poland` has more extreme nerds than `##ukraine`.  this is
+undisputed.  but the question is: is it a systematic difference?  e.g. is there
+anything special in pierogi that makes polish ppl more superior to ukranians?
 
 this simulation aims to answer the question:  is there a systematic cause.  it
 does it by calculating the p value of this observation against the null
