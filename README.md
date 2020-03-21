@@ -17,6 +17,11 @@ hypothesis with a probability of `0.3778`.
 
 usually nerds like p value to be smaller than `0.05`.  but in this case, it is
 `0.3778`, which is probably not small enough to reject the null hypothesis.
+but wat do u think?  is `0.3778` small enough to reject the null hypo?
 
-but at the same time, we cannot accept the null hypothesis either.  maybe with
-a larger sample size we can prove pierogi's superiority.
+so, i guess, we can't reject the null hypothesis (which means we cannot
+demonstrate poland's superiority is systematic; could be by sheer dumb luck).
+
+but, again, at the same time, we cannot accept the null hypothesis either.  so
+we can't say that ##poland's more extreme nerds is due to sheer dumb luck.
+maybe with a larger sample size we can prove pierogi's superiority.
